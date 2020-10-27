@@ -1,6 +1,6 @@
 # Service-Discovery
 06016325 SERVICE-ORIENTED PROGRAMMING 2020 - ITKMITL<br>
-Group: ไม่มี ไม่
+Group: ไม่มี ไม่หนี ไม่โค้ด
 
 # Service
   -  Eureka
