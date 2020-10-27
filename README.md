@@ -16,7 +16,7 @@ This git repository contains 3 Eclipse projects, one application for server side
 ## Setup
 1. Build and run App.java in *'service-registration-and-discovery-service'*
 2. Build and run 5 App.java from *'service-discovery-client1'* to *'service-discovery-client5'*
-3. View index.html
+3. View http://localhost:8761/status
 
 
 ## Sample
