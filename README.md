@@ -7,7 +7,7 @@ Group: ไม่มี ไม่
   -  Student Services
   -  Teacher
   -  Third Services
-  -  fourth Services
+  -  Fourth Services
   -  Fifth Services
 
 # Service Registration and Discovery examples with Spring Boot
