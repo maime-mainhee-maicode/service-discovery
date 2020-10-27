@@ -132,3 +132,4 @@ atlassian-ide-plugin.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java
 /.metadata/
+.vscode/settings.json
