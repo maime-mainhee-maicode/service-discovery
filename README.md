@@ -21,6 +21,9 @@ This git repository contains 3 Eclipse projects, one application for server side
 5. Get result from teacher service which pass request through student service by calling **HTTP GET** [http://localhost:8082/v1/teacher/studentReport](http://localhost:8082/v1/teacher/studentReport)
 
 
+## Sample
+![](https://i.imgur.com/XAYfno1.png)
+
 
 #  Member
 - 61070004     นางสาวกฤติมา จันทะชาลี <strong>GITHUB</strong> [ckrittima](https://github.com/ckrittima)
